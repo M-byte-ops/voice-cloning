@@ -22,7 +22,9 @@ git clone https://github.com/jnordberg/tortoise-tts.git
 
 cd tortoise-tts
 
-python3 setup.py install
+pip install -r requirements.txt
+
+python setup.py install
 
 
 # Lets Begin to code!
@@ -31,7 +33,14 @@ After ensuring that the installations are done, lets now start with our code.
 
 python voice-cloning.py
 
+Make sure you give the path of the input voice and upload the sample voices correctly to generate the output.
+Also ensure you upload more than 2 voice recordings as sample voices to make it more accurate.
+The duration of the sample voice recordings must be between 6-10 seconds. Not more and not less.
+Refer the above given notebook to code.
+
 # Results
 
 The output and the inferenecs are given above for your references. 
+
+
 
