@@ -33,7 +33,7 @@ python setup.py install
 
 After ensuring that the installations are done, lets now start with our code. 
 
-run voice-clone.ipynb file //it containd the complete code, kindly refer to this//
+run voice-clone.ipynb file //it contains the complete code, kindly refer to this//
 
 Make sure you give the path of the input voice and upload the sample voices correctly to generate the output.
 Also ensure you upload more than 2 voice recordings as sample voices to make it more accurate.
