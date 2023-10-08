@@ -14,6 +14,8 @@ Python 3.7 or greater is recommended.
 
 pip install speechRecognition
 
+pip install pydub
+
 pip install googletrans==3.1.0a0 {kindly use the latest version}
 
 pip install transformers==4.19.0 einops==0.5.0 rotary_embedding_torch==0.1.5 unidecode==1
